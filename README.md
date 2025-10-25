@@ -31,6 +31,8 @@ A **Full-Stack Learning Platform** where users can log in as **Student**, **Indu
 
 ---
 
+</div>
+
 ## ⚡ **Quick Start Guide**
 
 ### 🧩 Frontend Setup
