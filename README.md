@@ -4,6 +4,11 @@
 # 🚀 **SkillBridge Learning Platform**
 ### 🎯 *2nd Runners-Up at Infosys Global Hackathon 2025*
 
+<img width="1528" height="953" alt="image" src="https://github.com/user-attachments/assets/89bd9f64-b175-4781-8137-5aba9bd21ef6" />
+
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/ba0899a2-6cff-49d6-8de8-85c9ee5d6a25" />
+
 A **Full-Stack Learning Platform** where users can log in as **Student**, **Industrial Expert**, **Certifier**, or **Job Provider** — bridging skills, opportunities, and certifications in one platform!
 
 ---
