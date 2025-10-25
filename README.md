@@ -45,6 +45,65 @@ A **Full-Stack Learning Platform** where users can log in as **Student**, **Indu
 
 ----
 
+<h2 align="center">🚀 SkillBridge – Empowering Careers with AR/VR, AI & Immersive Technologies</h2>
+
+<p align="center">
+  <i>Project Submitted for the <b>Infosys Global Hackathon 2025</b> | Code for a Cause. Build for the World.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Debadatta22/MetaAchievers_Team339.git" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_View_Code_on_GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Button"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1pGVHbStAbIMXWiC5fJTCg7t0sWiiEhWc/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Access_Complete_Project-F9A825?style=for-the-badge&logo=google-drive&logoColor=white" alt="Drive Link Button"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Overview
+**SkillBridge Nexus** is a unified platform revolutionizing education and employment through **AI, AR/VR, and immersive technologies.**  
+It bridges the gap between learning and employability with personalized learning paths, AI-guided job matching, and VR-enabled classrooms.
+
+---
+
+### 🌍 SDG Challenges Addressed
+
+**SDG 4: Quality Education**  
+> Enhancing accessibility through immersive AR/VR learning environments, personalized AI guidance, and interactive virtual labs.
+
+**SDG 8: Decent Work and Economic Growth**  
+> Empowering individuals with AI-powered career readiness tools, real-time assessments, and inclusive job-matching opportunities.
+
+---
+
+### 💡 The Solution – SkillBridge Nexus
+Integrates:
+- 🎓 **AR/VR-based Virtual Classrooms & Labs**  
+- 🤖 **AI Resume Builder** using GROQ, Gemini, and OpenAI  
+- 🧠 **AI Job Match Analyzer**  
+- 🏆 **Certification & Company-Led Assessments**  
+- 🗺️ **AI-Generated Career Roadmaps**
+
+---
+
+### 📈 Impact Highlights
+| Target | Outcome | Metric |
+|--------|----------|--------|
+| 🎯 Students & Job-Seekers | 60% ↑ in placement readiness | AI-Employability Score |
+| 🏫 Institutions | 45% ↑ in skill-to-job alignment | Courses & Certifications |
+| 👩‍💼 Professionals | 70% ↑ in resume quality | AI Resume Score |
+
+---
+
+### 🌱 Long-Term Vision
+> Building a **national skill development network**, integrating **VR labs in remote schools**, and enabling **B2B collaborations** with hiring companies to bridge the global skill gap.
+
+
 </div>
 
 ## ⚡ **Quick Start Guide**
@@ -113,12 +172,77 @@ Server is running on port 5000
 
 🌈 Modern, responsive UI with animations
 
-### 💻 Developed & Designed by
+<h2 align="center">💻 Developed & Designed by</h2>
 
-👨‍💻 Debadatta Rout
+<table align="center">
+  <tr>
+    <th>👨‍💻 Developer</th>
+    <th>🎓 Institution</th>
+    <th>📧 Email</th>
+    <th>🔗 Links</th>
+  </tr>
 
+  <tr>
+    <td align="center"><b>Debadatta Rout</b></td>
+    <td align="center">B.Tech – CSE<br>C.V. Raman Global University, Bhubaneswar</td>
+    <td align="center">routdebadatta22@gmail.com</td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/debadatta-rout-454935341" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+      </a><br>
+      <a href="https://github.com/Debadatta22" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center"><b>Gyana Ranjan Sahoo</b></td>
+    <td align="center">B.Tech – CSE<br>C.V. Raman Global University, Bhubaneswar</td>
+    <td align="center">gyanaranjan0033@gmail.com</td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gyanaranjansahoo0033" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+      </a><br>
+      <a href="https://github.com/CoderGyanaa" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center"><b>Arvind Kumar Sahu</b></td>
+    <td align="center">B.Tech – CSE<br>NIST University, Berhampur</td>
+    <td align="center">arvindsahu9149@gmail.com</td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/arvind-kumar-sahu-380498257" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+      </a><br>
+      <a href="https://github.com/Arvindsahu66" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Saumik Chakraborty</b></td>
+    <td align="center">B.Tech – CSE<br>NIST University, Berhampur</td>
+    <td align="center">saumik17rkl@gmail.com</td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/saumik-chakraborty-51a499257" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+      </a><br>
+      <a href="https://github.com/Saumik17rkl" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Optional: Add subtle animation effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=✨+Passionate+Developers+Building+Innovative+Solutions+✨;💡+AI+%7C+Web+Dev+%7C+Data+Science+%7C+Research+💡" alt="Typing Animation" />
+</p>
 
 
 
