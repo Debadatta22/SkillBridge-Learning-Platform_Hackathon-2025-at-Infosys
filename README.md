@@ -63,6 +63,29 @@ A **Full-Stack Learning Platform** where users can log in as **Student**, **Indu
   </a>
 </p>
 
+
+<h2 align="center">🕶️ AR/VR Development Demo Recordings</h2>
+<p align="center"><i>Experience our immersive SkillBridge AR/VR environment recorded through Meta Headset</i></p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Pp5lL61CCZEq6Q593mSO_AkXFCyEKdxJ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Watch_AR/VR_Demo_1-00C853?style=for-the-badge&logo=youtube&logoColor=white" alt="AR/VR Demo 1"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1RREVz1t8pVsxkfjqyRLROqMO0aDKUvdo/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Watch_AR/VR_Demo_2-2962FF?style=for-the-badge&logo=youtube&logoColor=white" alt="AR/VR Demo 2"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1a5nosaYhS-T5YD-qbdZfWiHWqsqN5-49/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Watch_AR/VR_Demo_3-D50000?style=for-the-badge&logo=youtube&logoColor=white" alt="AR/VR Demo 3"/>
+  </a>
+</p>
+
+
 ---
 
 ### 🎯 Overview
