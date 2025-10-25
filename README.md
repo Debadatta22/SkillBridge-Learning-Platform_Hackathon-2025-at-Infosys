@@ -21,7 +21,8 @@ A **Full-Stack Learning Platform** where users can log in as **Student**, **Indu
 
 ---
 
-🎨 **Project Preview**
+### 🎨 **Project Preview**
+
 <img width="100%" alt="SkillBridge Preview" src="https://github.com/user-attachments/assets/6a2f26f8-eff7-4022-a247-3deb929eadff" />
 
 ---
