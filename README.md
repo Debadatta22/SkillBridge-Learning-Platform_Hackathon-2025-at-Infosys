@@ -27,7 +27,7 @@ A **Full-Stack Learning Platform** where users can log in as **Student**, **Indu
 ---
 
 ## 🔗 **Access the Complete Project Files**
-[![📂 Google Drive Link](https://img.shields.io/badge/📂_Google_Drive-Link-blue?style=for-the-badge&logo=google-drive)](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[![📂 Google Drive Link](https://img.shields.io/badge/📂_Google_Drive-Link-blue?style=for-the-badge&logo=google-drive)]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1Smht1XMRMc5mq1jubw0muFzH5AeaA-f-/view?usp=sharing))
 
 ---
 
