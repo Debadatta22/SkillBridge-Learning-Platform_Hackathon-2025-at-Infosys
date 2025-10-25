@@ -33,6 +33,11 @@ A **Full-Stack Learning Platform** where users can log in as **Student**, **Indu
 
 ---
 
+## 🎬 **Project Demo Video**
+[![▶️ Click to Watch Video](https://img.shields.io/badge/▶️ Watch_Demo_Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/11TQ58jJowjBm_nxB2gezrKZ_fIbwt3VY/view?usp=sharing)
+
+----
+
 </div>
 
 ## ⚡ **Quick Start Guide**
