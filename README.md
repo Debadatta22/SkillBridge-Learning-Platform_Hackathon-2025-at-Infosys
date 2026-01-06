@@ -196,7 +196,7 @@ Server is running on port 5000
 🌈 Modern, responsive UI with animations
 
 ### File Structure:-
-
+```
 skillbridge-forge-main-full
 ├── .idea/
 │   ├── .gitignore
@@ -435,7 +435,7 @@ skillbridge-forge-main-full
 ├── .gitattributes
 └── skillbridge-forge-main-full.7z
 
-
+```
 
 <h2 align="center">💻 Developed & Designed by</h2>
 
