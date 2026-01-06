@@ -3,8 +3,13 @@
 
 # 🚀 **SkillBridge Learning Platform**
 ### 🎯 *2nd Runners-Up at Infosys Global Hackathon 2025*
+view here - https://www.infosys.com/infosys-global-hackathon.html
 
 <img width="1528" height="953" alt="image" src="https://github.com/user-attachments/assets/89bd9f64-b175-4781-8137-5aba9bd21ef6" />
+
+<img width="1351" height="968" alt="image" src="https://github.com/user-attachments/assets/76368bf2-bbef-4f80-afab-e3103627cc6f" />
+
+<img width="559" height="1280" alt="image" src="https://github.com/user-attachments/assets/9e7a88f4-9cd2-4cf2-9842-b16fb0a37b9f" />
 
 
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/ba0899a2-6cff-49d6-8de8-85c9ee5d6a25" />
