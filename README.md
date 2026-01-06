@@ -195,6 +195,248 @@ Server is running on port 5000
 
 🌈 Modern, responsive UI with animations
 
+### File Structure:-
+
+skillbridge-forge-main-full
+├── .idea/
+│   ├── .gitignore
+│   ├── vcs.xml
+│   └── workspace.xml
+├── skillbridge-forge-main-full/
+│   └── skillbridge-forge-main-full/
+│       └── skillbridge-forge-main-full/
+│           ├── .idea/
+│           │   ├── inspectionProfiles/
+│           │   │   └── Project_Default.xml
+│           │   ├── .gitignore
+│           │   ├── misc.xml
+│           │   ├── modules.xml
+│           │   ├── skillbridge-forge-main-full.iml
+│           │   ├── vcs.xml
+│           │   └── workspace.xml
+│           ├── skillbridge-forge-main/
+│           │   ├── public/
+│           │   │   ├── lovable-uploads/
+│           │   │   │   └── e0be7986-2689-4a29-b5c5-04f4a938780d.png
+│           │   │   ├── favicon.ico
+│           │   │   ├── placeholder.svg
+│           │   │   └── robots.txt
+│           │   ├── skillbridge-backend/
+│           │   │   ├── controller/
+│           │   │   │   ├── assessmentController.js
+│           │   │   │   ├── authController.js
+│           │   │   │   ├── courceController.js
+│           │   │   │   ├── jobController.js
+│           │   │   │   ├── questionController.js
+│           │   │   │   └── userController.js
+│           │   │   ├── db/
+│           │   │   │   └── db.js
+│           │   │   ├── middleware/
+│           │   │   │   ├── authMiddleware.js
+│           │   │   │   ├── errorHandler.js
+│           │   │   │   └── validateRequest.js
+│           │   │   ├── models/
+│           │   │   │   ├── ARVRLab.js
+│           │   │   │   ├── Assessment.js
+│           │   │   │   ├── Certification.js
+│           │   │   │   ├── Course.js
+│           │   │   │   ├── InterviewSet.js
+│           │   │   │   ├── JobPost.js
+│           │   │   │   ├── MentoringSession.js
+│           │   │   │   ├── Question.js
+│           │   │   │   └── User.js
+│           │   │   ├── routes/
+│           │   │   │   ├── assessments.js
+│           │   │   │   ├── auth.js
+│           │   │   │   ├── authRoutes.js
+│           │   │   │   ├── courseRoutes.js
+│           │   │   │   ├── jobRoutes.js
+│           │   │   │   ├── questions.js
+│           │   │   │   └── userRoutes.js
+│           │   │   ├── .env
+│           │   │   ├── .gitIgnore
+│           │   │   ├── index.js
+│           │   │   ├── package-lock.json
+│           │   │   ├── package.json
+│           │   │   └── README.md
+│           │   ├── src/
+│           │   │   ├── assets/
+│           │   │   │   └── images/
+│           │   │   │       ├── ar-steps.png
+│           │   │   │       └── vr-journey.png
+│           │   │   ├── components/
+│           │   │   │   ├── auth/
+│           │   │   │   │   ├── LoginForm.tsx
+│           │   │   │   │   ├── RegistrationForm.tsx
+│           │   │   │   │   ├── RightPanel.tsx
+│           │   │   │   │   └── RoleSelection.tsx
+│           │   │   │   ├── certifier/
+│           │   │   │   │   ├── CertificationPanel.tsx
+│           │   │   │   │   ├── CertifierLayout.tsx
+│           │   │   │   │   ├── CertifierNotifications.tsx
+│           │   │   │   │   ├── CertifierSettings.tsx
+│           │   │   │   │   ├── StudentAnalytics.tsx
+│           │   │   │   │   └── UploadCourse.tsx
+│           │   │   │   ├── dashboards/
+│           │   │   │   │   ├── CertifierHome.tsx
+│           │   │   │   │   ├── IndExpertHome.tsx
+│           │   │   │   │   ├── JobProviderHome.tsx
+│           │   │   │   │   └── StudentHome.tsx
+│           │   │   │   ├── indExpert/
+│           │   │   │   │   ├── Analytics.tsx
+│           │   │   │   │   ├── Applicants.tsx
+│           │   │   │   │   ├── Dashboard.tsx
+│           │   │   │   │   ├── EventCalendar.tsx
+│           │   │   │   │   ├── IndExpertLayout.tsx
+│           │   │   │   │   ├── MentoringSessions.tsx
+│           │   │   │   │   ├── MyCourses.tsx
+│           │   │   │   │   ├── ScheduleInterviews.tsx
+│           │   │   │   │   ├── Settings.tsx
+│           │   │   │   │   └── SmartSelection.tsx
+│           │   │   │   ├── jobProvider/
+│           │   │   │   │   ├── Applications.tsx
+│           │   │   │   │   ├── BrowseCandidates.tsx
+│           │   │   │   │   ├── CandidateAnalytics.tsx
+│           │   │   │   │   ├── HostAssessments.tsx
+│           │   │   │   │   ├── InterviewSchedule.tsx
+│           │   │   │   │   ├── JobProviderLayout.tsx
+│           │   │   │   │   ├── JobProviderSettings.tsx
+│           │   │   │   │   ├── ManageJobs.tsx
+│           │   │   │   │   └── PostJob.tsx
+│           │   │   │   ├── shared/
+│           │   │   │   │   ├── ProfileModal.tsx
+│           │   │   │   │   └── RoleLayout.tsx
+│           │   │   │   ├── student/
+│           │   │   │   │   ├── assessments/
+│           │   │   │   │   │   ├── AssessmentCard.tsx
+│           │   │   │   │   │   ├── AssessmentDashboard.tsx
+│           │   │   │   │   │   ├── Assessments.tsx
+│           │   │   │   │   │   ├── AssessmentTest.tsx
+│           │   │   │   │   │   ├── BankingTestDashboard.tsx
+│           │   │   │   │   │   ├── BankingTestInterface.tsx
+│           │   │   │   │   │   ├── CodingTestDashboard.tsx
+│           │   │   │   │   │   ├── CodingTestInterface.tsx
+│           │   │   │   │   │   ├── FloatingElements.tsx
+│           │   │   │   │   │   └── ResultsDashboard.tsx
+│           │   │   │   │   ├── courses/
+│           │   │   │   │   │   ├── CourseCard.tsx
+│           │   │   │   │   │   ├── Courses.tsx
+│           │   │   │   │   │   ├── index.css
+│           │   │   │   │   │   ├── index.ts
+│           │   │   │   │   │   ├── ModuleList.tsx
+│           │   │   │   │   │   ├── ProgressTracker.tsx
+│           │   │   │   │   │   └── SearchBar.tsx
+│           │   │   │   │   ├── Achievements.tsx
+│           │   │   │   │   ├── ARVRLabs.tsx
+│           │   │   │   │   ├── CareerPathNavigator.tsx
+│           │   │   │   │   ├── ChatWithAI.tsx
+│           │   │   │   │   ├── ConnectWithMentors.tsx
+│           │   │   │   │   ├── Explore.tsx
+│           │   │   │   │   ├── JobOpportunities.tsx
+│           │   │   │   │   ├── ProgressAnalytics.tsx
+│           │   │   │   │   ├── SkillLab.tsx
+│           │   │   │   │   ├── SkillSelector.tsx
+│           │   │   │   │   ├── StudentLayout.tsx
+│           │   │   │   │   ├── StudentProfile.tsx
+│           │   │   │   │   └── StudyPlanner.tsx
+│           │   │   │   └── ui/
+│           │   │   │       ├── accordion.tsx
+│           │   │   │       ├── alert-dialog.tsx
+│           │   │   │       ├── alert.tsx
+│           │   │   │       ├── animated-background.tsx
+│           │   │   │       ├── aspect-ratio.tsx
+│           │   │   │       ├── avatar.tsx
+│           │   │   │       ├── badge.tsx
+│           │   │   │       ├── breadcrumb.tsx
+│           │   │   │       ├── button.tsx
+│           │   │   │       ├── calendar.tsx
+│           │   │   │       ├── card.tsx
+│           │   │   │       ├── carousel.tsx
+│           │   │   │       ├── chart.tsx
+│           │   │   │       ├── checkbox.tsx
+│           │   │   │       ├── collapsible.tsx
+│           │   │   │       ├── command.tsx
+│           │   │   │       ├── context-menu.tsx
+│           │   │   │       ├── dialog.tsx
+│           │   │   │       ├── drawer.tsx
+│           │   │   │       ├── dropdown-menu.tsx
+│           │   │   │       ├── form.tsx
+│           │   │   │       ├── hover-card.tsx
+│           │   │   │       ├── input-otp.tsx
+│           │   │   │       ├── input.tsx
+│           │   │   │       ├── label.tsx
+│           │   │   │       ├── menubar.tsx
+│           │   │   │       ├── navigation-menu.tsx
+│           │   │   │       ├── pagination.tsx
+│           │   │   │       ├── popover.tsx
+│           │   │   │       ├── progress.tsx
+│           │   │   │       ├── radio-group.tsx
+│           │   │   │       ├── resizable.tsx
+│           │   │   │       ├── scroll-area.tsx
+│           │   │   │       ├── select.tsx
+│           │   │   │       ├── separator.tsx
+│           │   │   │       ├── sheet.tsx
+│           │   │   │       ├── sidebar.tsx
+│           │   │   │       ├── skeleton.tsx
+│           │   │   │       ├── slider.tsx
+│           │   │   │       ├── sonner.tsx
+│           │   │   │       ├── switch.tsx
+│           │   │   │       ├── table.tsx
+│           │   │   │       ├── tabs.tsx
+│           │   │   │       ├── textarea.tsx
+│           │   │   │       ├── theme-toggle.tsx
+│           │   │   │       ├── toast.tsx
+│           │   │   │       ├── toaster.tsx
+│           │   │   │       ├── toggle-group.tsx
+│           │   │   │       ├── toggle.tsx
+│           │   │   │       ├── tooltip.tsx
+│           │   │   │       └── use-toast.ts
+│           │   │   ├── contexts/
+│           │   │   │   ├── AuthContext.tsx
+│           │   │   │   └── ThemeContext.tsx
+│           │   │   ├── hooks/
+│           │   │   │   ├── use-mobile.tsx
+│           │   │   │   └── use-toast.ts
+│           │   │   ├── lib/
+│           │   │   │   ├── courseData.ts
+│           │   │   │   └── utils.ts
+│           │   │   ├── pages/
+│           │   │   │   ├── CoursePage.tsx
+│           │   │   │   ├── Index.tsx
+│           │   │   │   ├── NotFound.tsx
+│           │   │   │   └── ProgressReportPage.tsx
+│           │   │   ├── types/
+│           │   │   │   └── auth.ts
+│           │   │   ├── utils/
+│           │   │   │   └── roleHelpers.ts
+│           │   │   ├── App.css
+│           │   │   ├── App.tsx
+│           │   │   ├── index.css
+│           │   │   ├── main.tsx
+│           │   │   └── vite-env.d.ts
+│           │   ├── .gitignore
+│           │   ├── bun.lockb
+│           │   ├── components.json
+│           │   ├── eslint.config.js
+│           │   ├── index.html
+│           │   ├── package-lock.json
+│           │   ├── package.json
+│           │   ├── postcss.config.js
+│           │   ├── README.md
+│           │   ├── tailwind.config.ts
+│           │   ├── tsconfig.app.json
+│           │   ├── tsconfig.json
+│           │   ├── tsconfig.node.json
+│           │   └── vite.config.ts
+│           ├── .gitignore
+│           ├── courseData.ts
+│           ├── CoursesPage.tsx
+│           └── package-lock.json
+├── .gitattributes
+└── skillbridge-forge-main-full.7z
+
+
+
 <h2 align="center">💻 Developed & Designed by</h2>
 
 <table align="center">
